@@ -1,0 +1,6 @@
+nome: André
+fone: 70707070
+nome: Vera
+fone: 80808080
+nome: Tereza
+fone: 90909090
