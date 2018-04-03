@@ -1,4 +1,0 @@
-Primeira linha para gravar no arquivo
-Segunda linha para gravar no arquivo
-Primeira linha para gravar no arquivo
-Segunda linha para gravar no arquivo
