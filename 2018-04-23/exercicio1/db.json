@@ -1,0 +1,116 @@
+{
+  "usuarios": [
+    {
+      "id": 0,
+      "nome": "Marcia Cristina Bizinotto",
+      "email": "marcia@gmail.com",
+      "image": "images/marcia.png",
+      "profissao": "Professora da Universidade Federal de Uberlândia.",
+      "senha": "***",
+      "candidato": 1
+    },
+    {
+      "id": 1,
+      "nome": "Alessandra",
+      "email": "ale@gmail.com",
+      "image": "images/alessandra.jpg",
+      "profissao": "Professora municipal de Vinhedo.",
+      "senha": "***",
+      "candidato": 1
+    },
+    {
+      "id": 2,
+      "nome": "Paula Lemos Real",
+      "email": "plr@gmail.com",
+      "image": "images/paula.jpg",
+      "profissao": "Enfermeira da prefeitura de Campinas.",
+      "senha": "***",
+      "candidato": 2
+    },
+    {
+      "id": 3,
+      "nome": "Ana Paula Costa",
+      "email": "ana@gmail.com",
+      "image": "images/anacosta.jpg",
+      "profissao": "Funcionária da Bosch.",
+      "senha": "***",
+      "candidato": 3
+    },
+    {
+      "id": 4,
+      "nome": "Violentina",
+      "email": "violentina@gmail.com",
+      "image": "images/ernesta.jpg",
+      "profissao": "Professora da Universidade Federal de Uberlândia.",
+      "senha": "***",
+      "candidato": 4
+    },
+    {
+      "id": 5,
+      "nome": "Denise",
+      "email": "denise.com",
+      "image": "images/denise.jpg",
+      "profissao": "Professora Municipal de Campinas.",
+      "senha": "***",
+      "candidato": 3
+    },
+    {
+      "id": 6,
+      "nome": "Luciana",
+      "email": "luciana@gmail.com",
+      "image": "images/luciana.jpg",
+      "profissao": "System Engineer.",
+      "senha": "***",
+      "candidato": 3
+    },
+    {
+      "id": 7,
+      "nome": "Luciana",
+      "email": "luciana@gmail.com",
+      "image": "images/luciana.jpg",
+      "profissao": "System Engineer.",
+      "senha": "***",
+      "candidato": 3
+    },
+    {
+      "nome": "ANDRE LUIS BORDIGNON",
+      "email": "albordignon@gmail.com",
+      "profissao": "",
+      "senha": "1234",
+      "candidato": "",
+      "id": 8
+    },
+    {
+      "nome": "ANDRE LUIS BORDIGNON",
+      "email": "albordignon@gmail.com",
+      "profissao": "",
+      "senha": "1234",
+      "candidato": "",
+      "id": 9
+    },
+    {
+      "nome": "ANDRE LUIS BORDIGNON",
+      "email": "albordignon@gmail.com",
+      "profissao": "",
+      "senha": "Bordi1973",
+      "id": 10
+    },
+    {
+      "nome": "ANDRE LUIS BORDIGNON",
+      "email": "albordignon@gmail.com",
+      "profissao": "",
+      "senha": "Bordi1973",
+      "candidato": "1",
+      "id": 11
+    },
+    {
+      "nome": "ANDRE LUIS BORDIGNON",
+      "email": "albordignon@gmail.com",
+      "profissao": "",
+      "foto": "",
+      "senha": "Bordi1973",
+      "candidato": "1",
+      "id": 12
+    }
+  ]
+}

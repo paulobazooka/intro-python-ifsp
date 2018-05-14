@@ -1,0 +1,242 @@
+============== Endereços das Escolas de Campinas =================
+
+latitude: -22.911643 longitude: -47.05901970000001
+endereço: Condomínio Edifício Rainha Izabel - Av. Aquidaban, 101 - Bosque, Campinas - SP, Brazil
+
+latitude: -22.898359 longitude: -47.055918
+endereço: Av. Júlio de Mesquita, 839 - Cambuí, Campinas - SP, 13025-060, Brazil
+
+latitude: -22.911643 longitude: -47.05901970000001
+endereço: Condomínio Edifício Rainha Izabel - Av. Aquidaban, 101 - Bosque, Campinas - SP, Brazil
+
+latitude: -22.899691 longitude: -47.0689106
+endereço: R. Dr. Delfino Cintra, 732-752 - Botafogo, Campinas - SP, Brazil
+
+latitude: -22.9023462 longitude: -47.0576297
+endereço: Av. Dr. Thomaz Alves, 220 - Centro, Campinas - SP, 13010-160, Brazil
+
+latitude: -22.8318839 longitude: -47.0786244
+endereço: Av. Albino José Barbosa de Oliveira, 834 - Barão Geraldo, Campinas - SP, 13084-008, Brazil
+
+latitude: -22.9230177 longitude: -47.0380085
+endereço: R. Luís Alberto Wustemberg, 2-104 - Jardim Ouro Branco, Campinas - SP, 13100-501, Brazil
+
+latitude: -22.9060444 longitude: -47.054808
+endereço: Av. Dr. Moraes Sales, 1000 - Nova Campinas, Campinas - SP, 13100-201, Brazil
+
+latitude: -22.9062964 longitude: -47.0680309
+endereço: Av. Andrade Neves, 214-240 - Jardim Chapadão, Campinas - SP, 13070-001, Brazil
+
+latitude: -22.8572335 longitude: -47.1551552
+endereço: R. Dom Carlos Carmelo Vasconcellos Mota, 25 - Conj. Hab. Padre Anchieta, Campinas - SP, 13068-137, Brazil
+
+latitude: -22.895268 longitude: -47.144681
+endereço: R. Leonor de Morães, 271 - Parque Santa Bárbara, Campinas - SP, 13064-450, Brazil
+
+latitude: -22.8888527 longitude: -47.1224859
+endereço: R. dos Ipês Amarelos, 154 - Vila Boa Vista, Campinas - SP, 13064-771, Brazil
+
+latitude: -22.8181178 longitude: -47.0914967
+endereço: R. Eduardo Modesto, 122-158 - Vila Santa Isabel, Campinas - SP, 13084-615, Brazil
+
+latitude: -22.8828194 longitude: -47.1125008
+endereço: R. João Rodrigues Serra, 227-279 - Jardim Eulina, Campinas - SP, 13063-240, Brazil
+
+latitude: -22.8885888 longitude: -47.1099706
+endereço: R. Silvio Di Marzio, 259 - Jardim Eulina, Campinas - SP, 13063-370, Brazil
+
+latitude: -22.9059596 longitude: -47.0551082
+endereço: Condomínio Edifício Saturno - Av. Dr. Moraes Sales, 987 - Centro, Campinas - SP, 13010-001, Brazil
+
+latitude: -22.9738868 longitude: -47.1204085
+endereço: R. Ten José Duarte, 102 - Dic II (Conj Hab. Dr. Antonio Mendonca de Barros), Campinas - SP, 13054-200, Brazil
+
+latitude: -22.9184538 longitude: -47.0792579
+endereço: R. Cândido Mota, 35 - Fundacao da Casa Popular, Campinas - SP, 13031-385, Brazil
+
+latitude: -22.9095403 longitude: -47.1097917
+endereço: R. Antônio Grigoleto, 88 - Jardim Garcia, Campinas - SP, Brazil
+
+latitude: -22.9098821 longitude: -47.052108
+endereço: R. Boaventura do Amaral, 354-406 - Centro, Campinas - SP, 13015-192, Brazil
+
+latitude: -22.9350253 longitude: -47.0331203
+endereço: R. da Abolição, 3258-3282 - Vila Joaquim Inacio, Campinas - SP, Brazil
+
+latitude: -22.9135002 longitude: -47.046511
+endereço: R. Dom Luiz Antônio de Souza, 100 - Jardim Proença, Campinas - SP, 13026-285, Brazil
+
+latitude: -22.9184538 longitude: -47.0792579
+endereço: R. Cândido Mota, 35 - Fundacao da Casa Popular, Campinas - SP, 13031-385, Brazil
+
+latitude: -22.8966544 longitude: -47.1561906
+endereço: R. João Bueno Black, 80-162 - Parque São Jorge, Campinas - SP, Brazil
+
+latitude: -22.9005698 longitude: -47.1039002
+endereço: R. Rev Miguel Rizo Júnior, 2-44 - Jardim do Vovô, Campinas - SP, 13033-250, Brazil
+
+latitude: -22.8902868 longitude: -47.0622569
+endereço: Av. Barão de Itapura, 1706 - Botafogo, Campinas - SP, 13073-300, Brazil
+
+latitude: -22.9272693 longitude: -47.1246004
+endereço: Av. Homero Vasconcelos de Souza Camargo, 451-549 - Jardim Ipaussurama, Campinas - SP, 13060-830, Brazil
+
+latitude: -22.8731794 longitude: -47.1416258
+endereço: R. Manoel Thomás, 1671-2031 - Jardim Regina, Campinas - SP, 13067-230, Brazil
+
+latitude: -22.8556867 longitude: -47.1555701
+endereço: R. Adão Gonçalves, 163-251 - Jardim Aparecida, Campinas - SP, 13068-028, Brazil
+
+latitude: -22.9294251 longitude: -47.1214376
+endereço: R. Ercílio dos Santos Filho, 2-50 - Jardim Ipaussurama, Campinas - SP, 13060-841, Brazil
+
+latitude: -22.9755771 longitude: -47.1280036
+endereço: Av. Suaçuna, 10 - Vila Aeroporto, Campinas - SP, 13054-105, Brazil
+
+latitude: -22.9148793 longitude: -47.1152646
+endereço: R. Papagaio, 47-107 - Vila Padre Manoel de Nobrega, Campinas - SP, 13061-301, Brazil
+
+latitude: -22.8874153 longitude: -47.0462858
+endereço: Av. Orosimbo Maia, 4746-4826 - Vila Itapura, Campinas - SP, 13024-045, Brazil
+
+latitude: -22.8776693 longitude: -47.0295797
+endereço: R. Lúcia Helena Zampieri, 304 - Jardim Boa Esperança, Campinas - SP, 13091-525, Brazil
+
+latitude: -22.9537411 longitude: -47.113263
+endereço: Rua Padre Eustaquio, 476 - Jardim Capivari, Campinas - SP, Brazil
+
+latitude: -22.9754481 longitude: -47.1280029
+endereço: Av. Suaçuna, 10 - Vila Aeroporto, Campinas - SP, 13054-105, Brazil
+
+latitude: -22.8815101 longitude: -47.0694889
+endereço: SP-332, 357 - Vila Nova, Campinas - SP, 13073-035, Brazil
+
+latitude: -22.8975093 longitude: -47.0803259
+endereço: R. Emílio Henking, 471-495 - Vila Rossi Borghi e Siqueira, Campinas - SP, 13070-261, Brazil
+
+latitude: -22.9739314 longitude: -47.1202103
+endereço: R. Ten José Duarte, 99-113 - Dic II (Conj Hab. Dr. Antonio Mendonca de Barros), Campinas - SP, 13054-200, Brazil
+
+latitude: -22.9866462 longitude: -47.150042
+endereço: R. Pedro Cortado, 144 - Jardim Esplanada, Campinas - SP, 13056-212, Brazil
+
+latitude: -22.9552398 longitude: -47.09224409999999
+endereço: R. Bertoldo Fernandes de Castro, 83-97 - Jardim das Bandeiras, Campinas - SP, 13051-114, Brazil
+
+latitude: -22.9408953 longitude: -47.1851286
+endereço: R. Benedito Cândido Ramos, 77-137 - Parque Valenca I, Campinas - SP, Brazil
+
+latitude: -22.9188935 longitude: -47.1045959
+endereço: Rua Willian Booth, 459-507 - Jardim Pauliceia, Campinas - SP, 13060-074, Brazil
+
+latitude: -22.8644993 longitude: -47.1427343
+endereço: R. Sudoeste, 95-223 - Vila Renascenca, Campinas - SP, Brazil
+
+latitude: -22.8924722 longitude: -47.0631577
+endereço: R. Pref. Passos, 2-108 - Vila Itapura, Campinas - SP, 13023-220, Brazil
+
+latitude: -22.8882316 longitude: -47.0873113
+endereço: R. Domingos Signoreli, 77-149 - Jardim Chapadão, Campinas - SP, 13070-038, Brazil
+
+latitude: -22.9072118 longitude: -47.0379242
+endereço: Av. Dr. Manoel Afonso Ferreira, 209-245 - Jardim Paraíso, Campinas - SP, Brazil
+
+latitude: -22.8940395 longitude: -47.0508101
+endereço: Av. Cel. Silva Telles, 700-774 - Cambuí, Campinas - SP, Brazil
+
+latitude: -22.9467827 longitude: -47.0249755
+endereço: R. José Perina, 135-165 - Jardim São Vicente, Campinas - SP, 13045-185, Brazil
+
+latitude: -22.8521669 longitude: -47.0381779
+endereço: R. Cmte. Ataliba Eurídes Viêira, 58 - Jardim Santana, Campinas - SP, 13088-648, Brazil
+
+latitude: -23.0040981 longitude: -47.1091747
+endereço: R. Maria Franceliana Braz, 270 - Jardim Nova America, Campinas - SP, Brazil
+
+latitude: -23.0366189 longitude: -47.128
+endereço: R. Adelia Ferreira de Sousa Coelho, 2-12 - Cidade Singer, Campinas - SP, Brazil
+
+latitude: -22.824622 longitude: -47.082016
+endereço: Rua Jerônimo Páttaro, 83 - Cidade Universitária, Campinas - SP, 13084-110, Brazil
+
+latitude: -22.953185 longitude: -47.0901851
+endereço: R. João Tonoli, 203-235 - Jardim das Bandeiras, Campinas - SP, 13051-105, Brazil
+
+latitude: -22.9798377 longitude: -47.1255065
+endereço: R. Silvana Teixeira Réis, 455-531 - Dic VI (Conjunto Hab. Santo Dias Silva), Campinas - SP, 13054-646, Brazil
+
+latitude: -22.9619749 longitude: -47.0788787
+endereço: Rod. Lix da Cunha, 112 - Jardim Nova America, Campinas - SP, Brazil
+
+latitude: -22.8609859 longitude: -47.0673335
+endereço: R. dos Caiapós, 2-36 - Vila Miguel Vicente Cury, Campinas - SP, 13081-720, Brazil
+
+latitude: -22.8228429 longitude: -47.09133930000001
+endereço: Av. Independência, 170 - Jardim Independência, Campinas - SP, 13084-472, Brazil
+
+latitude: -22.9416679 longitude: -47.1020412
+endereço: R. Itatiba, 1439-1519 - Jardim Novo Campos Eliseos, Campinas - SP, 13050-545, Brazil
+
+latitude: -23.0427047 longitude: -47.1315213
+endereço: R. José Rômulo de Oliveira, 1-175 - Jardim Fernanda, Campinas - SP, 13053-613, Brazil
+
+latitude: -22.9489889 longitude: -47.0242868
+endereço: R. Francisco Antônio da Silva, 390-454 - Vila Formosa, Campinas - SP, 13045-025, Brazil
+
+latitude: -22.8815358 longitude: -47.0577847
+endereço: R. Castro Alves, 551-603 - Taquaral, Campinas - SP, 13076-040, Brazil
+
+latitude: -22.9317273 longitude: -47.0268994
+endereço: R. Prof. Alberto Martins - Jardim São Pedro, Campinas - SP, 13046-155, Brazil
+
+latitude: -22.8859716 longitude: -47.0687063
+endereço: SP-332, 1197 - Jardim Chapadão, Campinas - SP, 13070-178, Brazil
+
+latitude: -22.817795 longitude: -47.022256
+endereço: R. Araticum, 172 - Lot. Alphaville Campinas, Campinas - SP, 13098-368, Brazil
+
+latitude: -22.7495504 longitude: -47.0588244
+endereço: Rua Professor Doutor Emílio Coelho, 732-854, Campinas - SP, Brazil
+
+latitude: -22.8435534 longitude: -47.0225878
+endereço: R. Alceu Amoroso Lima, 78-234 - Parque Imperador, Campinas - SP, 13097-124, Brazil
+
+latitude: -22.8511624 longitude: -47.03454929999999
+endereço: R. Joaquim Gomes Ferreira, 2-44 - Jardim Nilópolis, Campinas - SP, 13088-840, Brazil
+
+latitude: -22.8137177 longitude: -47.033835
+endereço: R. Ângelo Esteves, 141-153 - Jardim Myrian Moreira da Costa, Campinas - SP, 13098-416, Brazil
+
+latitude: -22.934944 longitude: -47.0347095
+endereço: R. Waldemar César da Silveira, 61-105 - Jardim Cura D'ars, Campinas - SP, Brazil
+
+latitude: -22.8270449 longitude: -47.0761739
+endereço: R. Antônio Zaine, 90 - Jardim José Martins, Campinas - SP, 13084-701, Brazil
+
+latitude: -22.9483421 longitude: -47.0558493
+endereço: R. Peruíbe, 25-51 - Vila Campos Sales, Campinas - SP, 13040-550, Brazil
+
+latitude: -22.9474954 longitude: -47.0259289
+endereço: R. José Perina, 35 - Jardim São Vicente, Campinas - SP, 13045-185, Brazil
+
+latitude: -22.8676095 longitude: -47.0608323
+endereço: Rua Padre Domingos Giovanini, 287 - Parque Taquaral, Campinas - SP, 13087-310, Brazil
+
+latitude: -22.8612752 longitude: -47.0442332
+endereço: R. Luís Otávio, 1313 - Jardim Profa. Tarcília, Campinas - SP, 13087-018, Brazil
+
+latitude: -22.8416813 longitude: -47.1579826
+endereço: Av. Comendador Aladino Selmi, 6066 - Vila San Martin, Campinas - SP, Brazil
+
+latitude: -22.858595 longitude: -47.0422516
+endereço: R. Amélia Bueno Camargo, 257-337 - Jardim Santana, Campinas - SP, 13088-649, Brazil
+
+latitude: -22.8940395 longitude: -47.0508101
+endereço: Av. Cel. Silva Telles, 700-774 - Cambuí, Campinas - SP, Brazil
+
+latitude: -22.911643 longitude: -47.05901970000001
+endereço: Condomínio Edifício Rainha Izabel - Av. Aquidaban, 101 - Bosque, Campinas - SP, Brazil
+
+latitude: -22.9143283 longitude: -47.0473113
+endereço: R. Dom Luiz Antônio de Souza, 162-198 - Jardim Proença, Campinas - SP, 13026-285, Brazil
+
