@@ -41,22 +41,17 @@ def criaConexao():
 
 
 def inicializaBanco():
-	db = criaConexao()
-	cursor = db.cursor()
 
 	sql = 'DROP TABLE IF EXISTS Musicas'
-	cursor.execute(sql)
-	db.commit()
-
+	commitar(sql)
+	
 	sql = 'CREATE TABLE Musicas(id INT PRIMARY KEY AUTO_INCREMENT, titulo TEXT, tempo REAL, artista TEXT)'
-	cursor.execute(sql)
-	db.commit()
+	commitar(sql)
 
 	sql = 'INSERT INTO Musicas(titulo, tempo, artista) VALUES("Regret", 4.32, "The Winery Dogs"), ("Something", 5.65, "The Beatles"), ("Hora do Mergulho", 3.56, "Engenheiros do Hawaii"), ("Andar na Pedra", 4.23, "Raimundos")'
-	cursor.execute(sql)
-	db.commit()
+	commitar(sql)
 
-	db.close()
+
 
 
 def consultarMusicas():
@@ -70,6 +65,8 @@ def consultarMusicas():
 	db.close()
 
 
+
+
 def incluirMusica():
 	cls()
 	musica  = input("Digite o nome da musica: ")
@@ -81,11 +78,14 @@ def incluirMusica():
 
 
 
+
 def excluirMusica():
 	idMusica = input("Digite o id da musica: ")
 	sql = "DELETE FROM Musicas where id = " + str(idMusica)
 	commitar(sql)
 	print("Musica exluida com sucesso!")
+
+
 
 
 def alterarMusica():
@@ -99,6 +99,9 @@ def alterarMusica():
 	sql = "UPDATE Musicas set titulo = '" + musica + "', tempo = " + tempo + ", artista = '" + artista + "' where id = " + str(idMusica)
 	commitar(sql)
 	print("Musica alterada com sucesso!")
+
+
+
 
 
 while True:
