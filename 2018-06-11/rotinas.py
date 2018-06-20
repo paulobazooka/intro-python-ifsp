@@ -1,24 +1,29 @@
-import MySQLdb
+import MySQLdb as db
 
 
 def criaConexao():
-	host = 'sql10.freemysqlhosting.net'
-	banco = 'sql10241582'
-	user = 'sql10241582'
-	password = 'xqT4aW5U6Z'
-	port = '3306'
+	HOST = "sql10.freemysqlhosting.net"
+	PORT = 3306
+	USER = "sql10241582"
+	PASSWORD = "xqT4aW5U6Z"
+	BANCO = "sql10241582"
+	
 
 	try:
 		# db receber a conexão do banco específico
-		remote =  MySQLdb.connect(host, port, user, password, banco)
+		print("Conectando...")
+		remote =  db.Connect(host=HOST, port=PORT, user=USER, passwd=PASSWORD, db=BANCO)
+		print("Obtendo cursor...")
 		dbhandler = remote.cursor()
+		print("Realizando a consulta...")
 		dbhandler.execute("SELECT * from teste")
 		result = dbhandler.fetchall()
 		for item in result:
 			print (item)
-
 	except Exception as e:
 		print (e)
-
+		exit(0)
 	finally:
 		remote.close()
+
+		

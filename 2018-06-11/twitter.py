@@ -5,6 +5,6 @@
 # Paulo Sérgio do Nascimento   11/06/2018
 
 # importar tudo do arquivo rotinas
-from rotinas import *
+import rotinas
 
-inicializaBanco()
+rotinas.criaConexao()
